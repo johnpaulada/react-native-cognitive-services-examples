@@ -1,0 +1,7 @@
+{
+    "IMGUR_URL": "https://api.imgur.com/3/image",
+    "IMGUR_CLIENT_ID": "xxxxxxxxxxxx",
+    "IMGUR_CLIENT_SECRET": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "EMOTION_API_URL": "https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize",
+    "EMOTION_API_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
